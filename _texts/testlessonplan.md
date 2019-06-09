@@ -9,8 +9,8 @@ source: Alana Pass and Pine Mountain Settlement School
 ---
  
  
- Daily Instructional Lesson Plan
-	Content Area(s)/Course/Grade:
+ ##Daily Instructional Lesson Plan
+	##Content Area(s)/Course/Grade:
  
 	Unit:
 	Lesson Topic: Earth’s Systems
