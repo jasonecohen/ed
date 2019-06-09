@@ -3,7 +3,7 @@
 layout: narrative
 title: daily instructional lesson plan on Earth systems
 author: Alana Pass
-publication-date: 02 JUNE 2019
+publication-date: 02JUNE2019
 source: Alana Pass and Pine Mountain Settlement School
 
 ---
@@ -12,14 +12,14 @@ source: Alana Pass and Pine Mountain Settlement School
  ##Daily Instructional Lesson Plan
 	##Content Area(s)/Course/Grade:
  
-	Unit:
-	Lesson Topic: Earth’s Systems
+	-Unit:
+	-Lesson Topic: Earth’s Systems
  
-	Date:
-	Teacher:
+	-Date:
+	-Teacher:
  
-	School:
-	Standard(s):
+	-School:
+	-Standard(s):
 (HS-ESS2-2) – Analyze geoscience data to make the claim that one change to Earth’s surface can create feedbacks that cause changes to other Earth systems.
  
 	Student Outcome(s)/Learning Target:
