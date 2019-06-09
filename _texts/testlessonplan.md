@@ -1,4 +1,3 @@
-
 ---
 layout: narrative 
 title: daily instructional lesson plan on Earth systems 
@@ -6,6 +5,7 @@ author: Alana Pass
 source: Alana Pass and Pine Mountain Settlement School 
 
 ---
+ 
  
  
  ##Daily Instructional Lesson Plan
