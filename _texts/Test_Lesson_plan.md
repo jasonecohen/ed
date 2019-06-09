@@ -1,4 +1,13 @@
-﻿Daily Instructional Lesson Plan
+
+---
+layout: lesson plan
+title: daily instructional lesson plan on Earth systems
+author: Alana Pass
+source: Alana Pass and Pine Mountain Settlement School
+---
+ 
+ 
+ Daily Instructional Lesson Plan
 	Content Area(s)/Course/Grade:
  
 	Unit:
