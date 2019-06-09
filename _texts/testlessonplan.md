@@ -7,21 +7,26 @@ source: Alana Pass and Pine Mountain Settlement School
 ---
 
 
-##Daily Instructional Lesson Plan
-##Content Area(s)/Course/Grade:
+#### Daily Instructional Lesson Plan
+##### Content Area(s)/Course/Grade: 
 
--Unit:
--Lesson Topic: Earth’s Systems
-
--Date:
--Teacher:
-
--School:
--Standard(s):
-(HS-ESS2-2) – Analyze geoscience data to make the claim that one change to Earth’s surface can create feedbacks that cause changes to other Earth systems.
+Unit:
  
--Student Outcome(s)/Learning Target:
-At the conclusion of this activity, students will be able to successfully identify cause-and-effect relationships as they naturally and inorganically occur. Through this process, they should also be able to predict the outcomes that certain changes to Earth’s surface may have on other related systems (e.g. coal mining causing water contamination). 
+Lesson Topic: Earth’s Systems
+
+Date:
+
+Teacher:
+
+School:
+Standard(s):
+###### (HS-ESS2-2) – Analyze geoscience data to make the claim that one change to Earth’s surface can create feedbacks that cause changes to other Earth systems. 
+ 
+
+_Student Outcome(s)/Learning Target:_
+
+
+_At the conclusion of this activity, students will be able to successfully identify cause-and-effect relationships as they naturally and inorganically occur. Through this process, they should also be able to predict the outcomes that certain changes to Earth’s surface may have on other related systems (e.g. coal mining causing water contamination)._ 
 
 
 Context for Learning
@@ -56,3 +61,7 @@ Evaluation is constituted by the closure activity below (can be counted as a qui
 Closure:
 Require students to write a brief summary on how alterations to Earth’s surface cause its systems to change; have them move from general analysis to specifically considering Pine Mountain and Clover Fork.
 Some relevance here would be good; Again, why should they care?
+
+Supplementary materials:
+[Picture pulled from Pine Mountain] (https://pmss.wpengine.com/wp-content/uploads/2015/02/roe_042b.jpg)
+
