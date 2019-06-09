@@ -1,9 +1,11 @@
 
 ---
-layout: lesson plan
+layout: narrative
 title: daily instructional lesson plan on Earth systems
 author: Alana Pass
+publication-date: 02 JUNE 2019
 source: Alana Pass and Pine Mountain Settlement School
+
 ---
  
  
