@@ -1,11 +1,11 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed. #// can change the title of the repo here. 
+title:               Ed. 
 tagline:             'A Jekyll theme for minimal editions'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://jasonecohen.github.io' // replaced from oncomouse username
-baseurl:             '/ed' #// again, change the repo name here again, and then you have
+url:                 'http://jasonecohen.github.io' 
+baseurl:             '/ed' 
 
 # About/contact
 author:
